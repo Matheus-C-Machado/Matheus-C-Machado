@@ -29,6 +29,17 @@ Aqui no GitHub você vai encontrar meus projetos de estudo, códigos que estou e
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheus-C-Machado&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+### Projetos
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Matheus-C-Machado&repo=django-site.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Matheus-C-Machado&repo=efood.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Matheus-C-Machado&repo=eplay-store.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Matheus-C-Machado&repo=multifritas.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Matheus-C-Machado&repo=sorteador.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 🛠️ Tecnologias em aprendizado
 
