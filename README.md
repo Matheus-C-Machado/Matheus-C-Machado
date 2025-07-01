@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👨‍💻 Matheus Costa Machado
 
-<!--
-**Matheus-C-Machado/Matheus-C-Machado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desenvolvedor em formação | Foco em Python, Django e Web Full Stack**
 
-Here are some ideas to get you started:
+Olá! Sou o Matheus e estou em transição de carreira para o mundo da programação.  
+Depois de experiências nas áreas de logística, montagem de painéis elétricos e administração, decidi mergulhar de cabeça no universo do desenvolvimento.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente estou estudando e praticando com foco em:
+
+- 🔹 **Python** (especialmente com Django)
+- 🔹 **HTML, CSS e JavaScript**
+- 🔹 **Git e GitHub**
+- 🔹 **Banco de dados relacionais**
+- 🔹 **Desenvolvimento Web Full Stack**
+
+Sou movido por desafios, gosto de aprender na prática e acredito na tecnologia como ferramenta de transformação de vida.  
+Aqui no GitHub você vai encontrar meus projetos de estudo, códigos que estou explorando e a minha evolução nessa jornada como desenvolvedor.
+
+---
+
+## 🚀 Meus objetivos
+
+- Criar soluções reais que possam ajudar pessoas
+- Desenvolver projetos próprios para o portfólio
+- Conquistar minha primeira oportunidade como desenvolvedor
+
+---
+
+## 🛠️ Tecnologias em aprendizado
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+
+---
+
+## 📫 Contato
+
+Você pode falar comigo através do:
+
+- ✉️ **Email:** seuemail@gmail.com  
+- 💼 **LinkedIn:** [linkedin.com/in/seuusuario](https://linkedin.com/in/seuusuario) *(edite com seu link)*
+
+---
+
+> “Persistência transforma sonho em realidade.”  
+> — Matheus Costa Machado
