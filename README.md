@@ -42,8 +42,8 @@ Aqui no GitHub você vai encontrar meus projetos de estudo, códigos que estou e
 
 Você pode falar comigo através do:
 
-- ✉️ **Email:** seuemail@gmail.com  
-- 💼 **LinkedIn:** [linkedin.com/in/seuusuario](https://linkedin.com/in/seuusuario) *(edite com seu link)*
+- ✉️ **Email:** matheusmonster08@gmail.com  
+- 💼 **LinkedIn:** [linkedin.com/in/matheus-costa-machado-871926207/](https://www.linkedin.com/in/matheus-costa-machado-871926207/)) *(edite com seu link)*
 
 ---
 
