@@ -25,6 +25,10 @@ Aqui no GitHub você vai encontrar meus projetos de estudo, códigos que estou e
 - Conquistar minha primeira oportunidade como desenvolvedor
 
 ---
+### Detalhes
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheus-C-Machado&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 🛠️ Tecnologias em aprendizado
 
@@ -43,8 +47,8 @@ Aqui no GitHub você vai encontrar meus projetos de estudo, códigos que estou e
 Você pode falar comigo através do:
 
 - ✉️ **Email:** matheusmonster08@gmail.com  
-- 💼 **LinkedIn:** [linkedin.com/in/matheus-costa-machado-871926207/](https://www.linkedin.com/in/matheus-costa-machado-871926207/)) *(edite com seu link)*
-
+- 💼 **LinkedIn:** [linkedin.com/in/matheus-costa-machado-871926207/](https://www.linkedin.com/in/matheus-costa-machado-871926207/)
+- 
 ---
 
 > “Persistência transforma sonho em realidade.”  
