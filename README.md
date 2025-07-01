@@ -33,13 +33,13 @@ Aqui no GitHub você vai encontrar meus projetos de estudo, códigos que estou e
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Matheus-C-Machado&repo=django-site&theme=dark)](https://github.com/Matheus-C-Machado/django-site)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Matheus-C-Machado&repo=efood&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Matheus-C-Machado&repo=efood&theme=dark)](https://github.com/Matheus-C-Machado/efood)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Matheus-C-Machado&repo=eplay-store&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Matheus-C-Machado&repo=eplay-store&theme=dark)](https://github.com/Matheus-C-Machado/eplay-store)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Matheus-C-Machado&repo=multifritas&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Matheus-C-Machado&repo=multifritas&theme=dark)](https://github.com/Matheus-C-Machado/multifritas)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Matheus-C-Machado&repo=sorteador&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Matheus-C-Machado&repo=sorteador&theme=dark)](https://github.com/Matheus-C-Machado/sorteador)
 
 ### Linguagens utilizadas
 
